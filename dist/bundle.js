@@ -1,0 +1,1 @@
+(()=>{"use strict";console.time(),console.log(function o(e,n){return 0===e?0:n<0?-1:0===n?1:1===n?e:2===n?e*e:n%2==1?o(o(e,(n-1)/2),2)*e:o(o(e,n/2),2)}(127,45)),console.timeEnd()})();

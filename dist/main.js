@@ -1,0 +1,1 @@
+(()=>{"use strict";var r=parseInt(process.argv[2]);console.log(function r(e){if(e<1)return 0;var n=1;return 1===e?1:n+=r(e%2==1?3*e+1:e/2)}(r))})();
